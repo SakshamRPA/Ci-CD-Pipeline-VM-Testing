@@ -1,7 +1,7 @@
 {
-  "name": "Ci CD Pipeline VM Testing",
+  "name": "Ci.CD.Pipeline.VM.Testing",
   "projectId": "a4247234-704f-4aeb-8b00-986763192792",
-  "description": "Ci CD Pipeline VM Testing",
+  "description": "Ci.CD.Pipeline.VM.Testing",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.4]",
@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.1.0",
-  "projectVersion": "1.0.3",
+  "projectVersion": "1.0.4",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
